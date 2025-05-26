@@ -1,0 +1,34 @@
+
+body {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Merriweather', sans-serif;
+}
+
+
+/*Hero Slider*/
+.carousel-item {
+  position: relative;
+  color: white;
+}
+.carousel-item .overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 1;
+}
+.text-shadow {
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+}
+
+/*Programs Section*/
+.hover-shadow:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+

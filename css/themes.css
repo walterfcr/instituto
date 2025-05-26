@@ -1,0 +1,154 @@
+body.theme-blue {
+  --bs-primary: #00274D;
+  --bs-secondary: #333333;
+  --bs-warning: #FFB800;
+  --bs-body-bg: #f5faf5;
+  --bs-body-color: #1E1E1E;
+}
+
+body.theme-green {
+  --bs-primary: #1B4332;
+  --bs-secondary: #BDBDBD;
+  --bs-warning: #D88C63;
+  --bs-body-bg: #FAF3E0;
+  --bs-body-color: #1B1B1B;
+}
+
+body.theme-red {
+  --bs-primary: #C62828;
+  --bs-secondary: #1E1E1E;
+  --bs-warning: #2979FF;
+  --bs-body-bg: #eeeeee;
+  --bs-body-color: #000000;
+}
+
+.text-primary {
+  color: var(--bs-primary) !important;
+}
+
+/* Override Bootstrap background colors for each theme */
+body.theme-blue .bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+body.theme-green .bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+body.theme-red .bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
+/* Same for secondary */
+body.theme-blue .bg-secondary {
+  background-color: var(--bs-secondary) !important;
+}
+body.theme-green .bg-secondary {
+  background-color: var(--bs-secondary) !important;
+}
+body.theme-red .bg-secondary {
+  background-color: var(--bs-secondary) !important;
+}
+
+/* And for warning text color */
+body.theme-blue .text-warning {
+  color: var(--bs-warning) !important;
+}
+body.theme-green .text-warning {
+  color: var(--bs-warning) !important;
+}
+body.theme-red .text-warning {
+  color: var(--bs-warning) !important;
+}
+
+/* Body background and text colors */
+body.theme-blue {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
+body.theme-green {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
+body.theme-red {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
+
+body.theme-blue .btn-warning {
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+  color: #000; /* or any text color that fits */
+}
+body.theme-blue .btn-warning:hover,
+body.theme-blue .btn-warning:focus {
+  background-color: darken(var(--bs-warning), 10%);
+  border-color: darken(var(--bs-warning), 12%);
+  color: #000;
+}
+
+body.theme-green .btn-warning {
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+  color: #000;
+}
+body.theme-green .btn-warning:hover,
+body.theme-green .btn-warning:focus {
+  background-color: darken(var(--bs-warning), 10%);
+  border-color: darken(var(--bs-warning), 12%);
+  color: #000;
+}
+
+body.theme-red .btn-warning {
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+  color: #000;
+}
+body.theme-red .btn-warning:hover,
+body.theme-red .btn-warning:focus {
+  background-color: darken(var(--bs-warning), 10%);
+  border-color: darken(var(--bs-warning), 12%);
+  color: #000;
+}
+
+/**/
+/* Outline primary button in theme-blue */
+body.theme-blue .btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  background-color: transparent;
+}
+
+body.theme-blue .btn-outline-primary:hover,
+body.theme-blue .btn-outline-primary:focus {
+  color: var(--bs-body-bg);           /* text becomes light on hover */
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+}
+
+/* Outline primary button in theme-green */
+body.theme-green .btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  background-color: transparent;
+}
+
+body.theme-green .btn-outline-primary:hover,
+body.theme-green .btn-outline-primary:focus {
+  color: var(--bs-body-bg);
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+}
+
+/* Outline primary button in theme-red */
+body.theme-red .btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  background-color: transparent;
+}
+
+body.theme-red .btn-outline-primary:hover,
+body.theme-red .btn-outline-primary:focus {
+  color: var(--bs-body-bg);
+  background-color: var(--bs-warning);
+  border-color: var(--bs-warning);
+}
+

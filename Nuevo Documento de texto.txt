@@ -1,0 +1,20 @@
+Images used in the demo are from Unsplash:
+
+business-administration.jpg  (Photographer: Jason Goodman) https://unsplash.com/photos/bzqU01v-G54
+computer-science.jpg  (Photographer: Kelly Sikkema) https://unsplash.com/photos/YK0HPwWDJ1I
+nursing.jpg  (Photographer: CDC) https://unsplash.com/photos/LbUOh89q4Es
+engineering.jpg  (Photographer: ThisisEngineering) https://unsplash.com/photos/bIltCMXIwRE
+information-technology.jpg  (Photographer: ThisisEngineering) https://unsplash.com/photos/64YrPKiguAE
+journalism-media.jpg (Photographer: yasara hansani) https://unsplash.com/photos/LzvURPa_xwM
+psychology.jpg (Photographer: Julia Taubitz) https://unsplash.com/photos/ZBGANqQqHZQ
+law.jpg (Photographer: Sebastian Herrmann) https://unsplash.com/photos/n4_Q2dDYy80
+international-relations.jpg (Photographer: Murewa Saibu) https://unsplash.com/photos/o2gDH21erYo
+fine-arts.jpg (Photographer: Aliya Sam) https://unsplash.com/photos/QPnE3G8IXp0
+music-performing-arts.jpg (Photographer: Kazuo ota) https://unsplash.com/photos/RZRYw_Bu9zE
+environmental-science.jpg (Photographer: Travis Chen) https://unsplash.com/photos/NZm5ZPTGpsY
+campus.jpg (Photographer: Adrien Olichon ) https://unsplash.com/photos/z8XO8BfqpYc
+news-graduation.jpg (Photographer: Nqobile Vundla) https://unsplash.com/photos/DwEfVKirLW4
+news-conference.jpg (Photographer: Stem List) https://unsplash.com/photos/EVgsAbL51Rk
+news-open-day.jpg (Photographer: Sai Kiran Belana) https://unsplash.com/photos/8L0NwtD6reg
+
+These images are used for preview purposes only and are not included in the final download package due to licensing restrictions.
