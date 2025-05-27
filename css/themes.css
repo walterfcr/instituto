@@ -8,9 +8,9 @@ body.theme-blue {
 
 body.theme-green {
   --bs-primary: #1B4332;
-  --bs-secondary: #BDBDBD;
+  --bs-secondary: #2E463B;
   --bs-warning: #D88C63;
-  --bs-body-bg: #FAF3E0;
+  --bs-body-bg: #fffcf4;
   --bs-body-color: #1B1B1B;
 }
 
@@ -24,6 +24,10 @@ body.theme-red {
 
 .text-primary {
   color: var(--bs-primary) !important;
+}
+
+.theme-border-start {
+  border-left-color: var(--bs-primary) !important;
 }
 
 /* Override Bootstrap background colors for each theme */
