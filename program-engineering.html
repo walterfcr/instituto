@@ -26,7 +26,7 @@
   <div id="site-header"></div>
 
   <!-- Main Content -->
-<main class="container my-5">
+<main class="container my-5"  data-aos="fade-up">
   <h1 class="mb-5 text-center fw-bold">Bachelor of Science in Engineering</h1>
   <div class="row">
     <div class="col-lg-8">
@@ -75,12 +75,56 @@
             <li><strong>Language:</strong> English</li>
             <li><strong>Start Dates:</strong> September / January</li>
           </ul>
-          <a href="/apply" class="btn btn-warning w-100 mt-3">Apply Now</a>
+          <button type="button" class="btn btn-warning w-100 mt-3" data-bs-toggle="modal" data-bs-target="#applyModal">
+            Apply Now
+          </button>
         </div>
       </div>
     </div>
   </div>
 </main>
+<div class="modal fade" id="applyModal" tabindex="-1" aria-labelledby="applyModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title" id="applyModalLabel">Apply for Engineering</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form>
+          <div class="mb-3">
+            <label for="fullName" class="form-label">Full Name</label>
+            <input type="text" class="form-control" id="fullName" required>
+          </div>
+          <div class="mb-3">
+            <label for="emailAddress" class="form-label">Email Address</label>
+            <input type="email" class="form-control" id="emailAddress" required>
+          </div>
+          <div class="mb-3">
+            <label for="phone" class="form-label">Phone Number</label>
+            <input type="tel" class="form-control" id="phone">
+          </div>
+          <div class="mb-3">
+            <label for="startDate" class="form-label">Preferred Start Date</label>
+            <select class="form-select" id="startDate" required>
+              <option value="">Choose...</option>
+              <option value="september">September</option>
+              <option value="january">January</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label for="comments" class="form-label">Additional Comments</label>
+            <textarea class="form-control" id="comments" rows="3"></textarea>
+          </div>
+          <div class="text-end">
+            <button type="submit" class="btn btn-warning">Submit Application</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
