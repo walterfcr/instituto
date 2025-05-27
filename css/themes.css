@@ -104,13 +104,13 @@ body.theme-green .btn-warning:focus {
 body.theme-red .btn-warning {
   background-color: var(--bs-warning);
   border-color: var(--bs-warning);
-  color: #000;
+  color: #fff;
 }
 body.theme-red .btn-warning:hover,
 body.theme-red .btn-warning:focus {
   background-color: darken(var(--bs-warning), 10%);
   border-color: darken(var(--bs-warning), 12%);
-  color: #000;
+  color: #fff;
 }
 
 /**/

@@ -20,5 +20,8 @@ university.jpg (Photographer:  Casey Olsen) https://unsplash.com/photos/NlFyPKxX
 faculty-1.jpg (Photographer:  oktavianus mulyadi ) https://unsplash.com/photos/6IDRP8dXQ5M
 faculty-2.jpg (Photographer:  Shipman Northcutt ) https://unsplash.com/photos/sgZX15Da8YE
 faculty-3.jpg (Photographer:  Krystal Wilson) https://unsplash.com/photos/_zD4itHJ1aw
+slide-1.jpg (Photographer:  Brooke Cagle) https://unsplash.com/photos/g1Kr4Ozfoac
+slide-2.jpg (Photographer:  RUT MIIT) https://unsplash.com/photos/mPaKMvE3sHg
+slide-3.jpg (Photographer:  Dom Fou) https://unsplash.com/photos/YRMWVcdyhmI
 
 These images are used for preview purposes only and are not included in the final download package due to licensing restrictions.
