@@ -195,52 +195,50 @@
 <div class="modal fade" id="admissionsModal" tabindex="-1" aria-labelledby="admissionsModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg modal-dialog-centered">
     <div class="modal-content form text-dark">
-      <div class="modal-header">
+      <div class="modal-header bg-primary text-white">
         <h5 class="modal-title" id="admissionsModalLabel">Admissions Application</h5>
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
         <form>
-          <div class="row g-3">
-            <div class="col-md-6">
-              <label for="firstName" class="form-label">First Name</label>
-              <input type="text" class="form-control" id="firstName" required>
-            </div>
-            <div class="col-md-6">
-              <label for="lastName" class="form-label">Last Name</label>
-              <input type="text" class="form-control" id="lastName" required>
-            </div>
-            <div class="col-md-6">
-              <label for="email" class="form-label">Email Address</label>
-              <input type="email" class="form-control" id="email" required>
-            </div>
-            <div class="col-md-6">
-              <label for="phone" class="form-label">Phone Number</label>
-              <input type="tel" class="form-control" id="phone">
-            </div>
-            <div class="col-md-6">
-              <label for="program" class="form-label">Program of Interest</label>
-              <select class="form-select" id="program" required>
-                <option selected disabled>Choose a program...</option>
-                <option>Computer Science</option>
-                <option>Engineering</option>
-                <option>Psychology</option>
-                <option>Other</option>
-              </select>
-            </div>
-            <div class="col-md-6">
-              <label for="startDate" class="form-label">Preferred Start Date</label>
-              <input type="date" class="form-control" id="startDate" required>
-            </div>
-            <div class="col-12">
-              <label for="message" class="form-label">Why do you want to join our university?</label>
-              <textarea class="form-control" id="message" rows="4" required></textarea>
-            </div>
+          <div class="mb-3">
+            <label for="firstName" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="firstName" required>
+          </div>
+          <div class="mb-3">
+            <label for="lastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="lastName" required>
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">Email Address</label>
+            <input type="email" class="form-control" id="email" required>
+          </div>
+          <div class="mb-3">
+            <label for="phone" class="form-label">Phone Number</label>
+            <input type="tel" class="form-control" id="phone">
+          </div>
+          <div class="mb-3">
+            <label for="program" class="form-label">Program of Interest</label>
+            <select class="form-select" id="program" required>
+              <option selected disabled>Choose a program...</option>
+              <option>Computer Science</option>
+              <option>Engineering</option>
+              <option>Psychology</option>
+              <option>Other</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label for="startDate" class="form-label">Preferred Start Date</label>
+            <input type="date" class="form-control" id="startDate" required>
+          </div>
+          <div class="mb-3">
+            <label for="message" class="form-label">Why do you want to join our university?</label>
+            <textarea class="form-control" id="message" rows="4" required></textarea>
+          </div>
+          <div class="text-end">
+            <button type="submit" class="btn btn-warning">Submit Application</button>
           </div>
         </form>
-      </div>
-      <div class="modal-footer">
-        <button type="submit" class="btn btn-warning">Submit Application</button>
       </div>
     </div>
   </div>
