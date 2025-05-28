@@ -36,6 +36,18 @@ h1, h2, h3, h4, h5{
   background: var(--bs-body-bg);
 }
 
+.floating-image {
+  position: absolute;
+  top: -50px;
+  right: 30px;
+  width: 140px; /* adjust as needed */
+  height: 140px;
+  z-index: 2;
+  border: 8px solid var(--bs-warning-soft); /* white border */
+  border-radius: 50%;       /* optional: makes the image circular */
+  object-fit: cover;  
+}
+
 /**/
 .post-header img {
   max-width: 100%;
