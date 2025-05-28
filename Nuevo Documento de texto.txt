@@ -1,27 +1,36 @@
 Images used in the demo are from Unsplash:
 
-business-administration.jpg  (Photographer: Jason Goodman) https://unsplash.com/photos/bzqU01v-G54
-computer-science.jpg  (Photographer: Kelly Sikkema) https://unsplash.com/photos/YK0HPwWDJ1I
-nursing.jpg  (Photographer: CDC) https://unsplash.com/photos/LbUOh89q4Es
-engineering.jpg  (Photographer: ThisisEngineering) https://unsplash.com/photos/bIltCMXIwRE
-information-technology.jpg  (Photographer: ThisisEngineering) https://unsplash.com/photos/64YrPKiguAE
-journalism-media.jpg (Photographer: yasara hansani) https://unsplash.com/photos/LzvURPa_xwM
-psychology.jpg (Photographer: Julia Taubitz) https://unsplash.com/photos/ZBGANqQqHZQ
-law.jpg (Photographer: Sebastian Herrmann) https://unsplash.com/photos/n4_Q2dDYy80
-international-relations.jpg (Photographer: Murewa Saibu) https://unsplash.com/photos/o2gDH21erYo
-fine-arts.jpg (Photographer: Aliya Sam) https://unsplash.com/photos/QPnE3G8IXp0
-music-performing-arts.jpg (Photographer: Kazuo ota) https://unsplash.com/photos/RZRYw_Bu9zE
-environmental-science.jpg (Photographer: Travis Chen) https://unsplash.com/photos/NZm5ZPTGpsY
-campus.jpg (Photographer: Adrien Olichon ) https://unsplash.com/photos/z8XO8BfqpYc
-news-graduation.jpg (Photographer: Nqobile Vundla) https://unsplash.com/photos/DwEfVKirLW4
-news-conference.jpg (Photographer: Stem List) https://unsplash.com/photos/EVgsAbL51Rk
-news-open-day.jpg (Photographer: Sai Kiran Belana) https://unsplash.com/photos/8L0NwtD6reg
-university.jpg (Photographer:  Casey Olsen) https://unsplash.com/photos/NlFyPKxXORo
-faculty-1.jpg (Photographer:  oktavianus mulyadi ) https://unsplash.com/photos/6IDRP8dXQ5M
-faculty-2.jpg (Photographer:  Shipman Northcutt ) https://unsplash.com/photos/sgZX15Da8YE
-faculty-3.jpg (Photographer:  Krystal Wilson) https://unsplash.com/photos/_zD4itHJ1aw
-slide-1.jpg (Photographer:  Brooke Cagle) https://unsplash.com/photos/g1Kr4Ozfoac
-slide-2.jpg (Photographer:  RUT MIIT) https://unsplash.com/photos/mPaKMvE3sHg
-slide-3.jpg (Photographer:  Dom Fou) https://unsplash.com/photos/YRMWVcdyhmI
+business-administration.webp  (Photographer: Jason Goodman) https://unsplash.com/photos/bzqU01v-G54
+computer-science.webp  (Photographer: Kelly Sikkema) https://unsplash.com/photos/YK0HPwWDJ1I
+nursing.webp  (Photographer: CDC) https://unsplash.com/photos/LbUOh89q4Es
+engineering.webp  (Photographer: ThisisEngineering) https://unsplash.com/photos/bIltCMXIwRE
+information-technology.webp  (Photographer: ThisisEngineering) https://unsplash.com/photos/64YrPKiguAE
+journalism-media.webp (Photographer: yasara hansani) https://unsplash.com/photos/LzvURPa_xwM
+psychology.webp (Photographer: Julia Taubitz) https://unsplash.com/photos/ZBGANqQqHZQ
+law.webp (Photographer: Sebastian Herrmann) https://unsplash.com/photos/n4_Q2dDYy80
+international-relations.webp (Photographer: Murewa Saibu) https://unsplash.com/photos/o2gDH21erYo
+fine-arts.webp (Photographer: Aliya Sam) https://unsplash.com/photos/QPnE3G8IXp0
+music-performing-arts.webp (Photographer: Kazuo ota) https://unsplash.com/photos/RZRYw_Bu9zE
+environmental-science.webp (Photographer: Travis Chen) https://unsplash.com/photos/NZm5ZPTGpsY
+campus.webp (Photographer: Adrien Olichon ) https://unsplash.com/photos/z8XO8BfqpYc
+blog-blog-post-1.webp (Photographer: Sai Kiran Belana) https://unsplash.com/photos/8L0NwtD6reg
+blog-blog-post-2.webp (Photographer: Nqobile Vundla) https://unsplash.com/photos/DwEfVKirLW4
+blog-blog-post-3.webp (Photographer: Stem List) https://unsplash.com/photos/EVgsAbL51Rk
+blog-blog-post-4.webp (Photographer: Brooke Cagle) https://unsplash.com/photos/uHVRvDr7pg
+blog-blog-post-5.webp (Photographer: Noah Buscher) https://unsplash.com/photos/x8ZStukS2PM
+blog-blog-post-6.webp (Photographer: Bench Accounting) https://unsplash.com/photos/C3V88BOoRoM
+blog-blog-post-7.webp (Photographer: Kalle Lundin) https://unsplash.com/photos/iwlNnpu5yeU
+blog-blog-post-8.webp (Photographer: Markus Spiske) https://unsplash.com/photos/RmvlD0oTsAo
+blog-blog-post-9.webp (Photographer: Cajeo Zhang) https://unsplash.com/photos/C4F3CrjXZ3Y
+blog-blog-post-10.webp (Photographer: ray sangga kusuma) https://unsplash.com/photos/7uSrOyY1U0I
+blog-blog-post-11.webp (Photographer: Katerina) https://unsplash.com/photos/97NQM4A8r8o
+blog-blog-post-12.webp (Photographer: Diane Serik) https://unsplash.com/photos/2Xvz8uRnfM
+university.webp (Photographer:  Casey Olsen) https://unsplash.com/photos/NlFyPKxXORo
+faculty-1.webp (Photographer:  oktavianus mulyadi ) https://unsplash.com/photos/6IDRP8dXQ5M
+faculty-2.webp (Photographer:  Shipman Northcutt ) https://unsplash.com/photos/sgZX15Da8YE
+faculty-3.webp (Photographer:  Krystal Wilson) https://unsplash.com/photos/_zD4itHJ1aw
+slide-1.webp (Photographer:  Brooke Cagle) https://unsplash.com/photos/g1Kr4Ozfoac
+slide-2.webp (Photographer:  RUT MIIT) https://unsplash.com/photos/mPaKMvE3sHg
+slide-3.webp (Photographer:  Dom Fou) https://unsplash.com/photos/YRMWVcdyhmI
 
 These images are used for preview purposes only and are not included in the final download package due to licensing restrictions.
