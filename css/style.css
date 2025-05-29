@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5{
 }
 
 
-
+/*programs*/
 .floating-image {
   position: absolute;
   top: -50px;
@@ -48,19 +48,6 @@ h1, h2, h3, h4, h5{
   border: 8px solid var(--bs-warning-soft); /* white border */
   border-radius: 50%;       /* optional: makes the image circular */
   object-fit: cover;  
-}
-
-@media (max-width: 1366px) {
-  .floating-image {
-    width: 120px; /* adjust as needed */
-    height: 120px;
-  }
-}
-
-@media (max-width: 375px) {
-  .floating-image {
-   top: -70px;
-  }
 }
 
 /**/

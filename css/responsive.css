@@ -1,1 +1,27 @@
-/*navbar*/
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem; /* Smaller on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem; /* Even smaller on phones */
+  }
+}
+
+
+
+/*programs*/
+@media (max-width: 1366px) {
+  .floating-image {
+    width: 120px; /* adjust as needed */
+    height: 120px;
+  }
+}
+
+@media (max-width: 375px) {
+  .floating-image {
+   top: -70px;
+  }
+}
