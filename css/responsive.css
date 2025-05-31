@@ -25,3 +25,14 @@
    top: -70px;
   }
 }
+
+
+/*blog*/
+
+@media (max-width: 576px) {
+  .post-content {
+    margin: 0;            /* No margin outside to avoid overflow */
+    padding-left: 1rem;   /* Padding inside for breathing space */
+    padding-right: 1rem;
+  }
+}

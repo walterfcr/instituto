@@ -3,6 +3,7 @@ body {
   background-color: var(--bs-body-bg);
   color: var(--bs-body-color);
   font-family: 'Poppins', sans-serif;
+  
 }
 
 html, body {
@@ -138,17 +139,31 @@ h1, h2, h3, h4, h5{
   color: var(--bs-warning); 
 }
 
-@media (max-width: 767.98px) {
-  .image-wrapper .overlay {
-    display: none !important;
-  }
+
+.post-header img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 
 
+
+@media (max-width: 767.98px) {
+  .image-wrapper .overlay {
+    display: none !important;
+  }
+
+  .social-icon {
+  color: var(--bs-primary);
+  }
+}
+
+
 @media (max-width: 576px) {
-      .post-content {
-        margin: 1rem;
-        padding: 1rem;
-      }
+  .post-content {
+    margin: 0;            /* No margin outside to avoid overflow */
+    padding-left: 1rem;   /* Padding inside for breathing space */
+    padding-right: 1rem;
+  }
 }
