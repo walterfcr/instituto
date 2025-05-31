@@ -111,9 +111,9 @@ body.theme-red .btn-warning {
 }
 body.theme-red .btn-warning:hover,
 body.theme-red .btn-warning:focus {
-  background-color: darken(var(--bs-warning), 10%);
-  border-color: darken(var(--bs-warning), 12%);
-  color: #fff;
+  background-color: darken(var(--bs-warning-soft), 10%);
+  border-color: darken(var(--bs-warning-soft), 12%);
+  color: #000;
 }
 
 /**/
