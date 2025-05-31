@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5{
   object-fit: cover;  
 }
 
-/**/
+/*news*/
 .post-header img {
   max-width: 100%;
   height: auto;
@@ -92,7 +92,59 @@ h1, h2, h3, h4, h5{
   background: white;
   border-radius: 0.5rem;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+/*Faculty Highlight*/
+.card-img-top {
+  height: 360px;
+  object-fit: cover;
+  object-position: center top; /* Focus crop on the top center */
+}
+
+.card-body small {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.image-wrapper {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.image-wrapper .overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  gap: 15px;
+  font-size: 1.5rem;
+}
+
+.image-wrapper:hover .overlay {
+  opacity: 1;
+}
+
+.social-icon {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+  color: var(--bs-warning); 
+}
+
+@media (max-width: 767.98px) {
+  .image-wrapper .overlay {
+    display: none !important;
   }
+}
+
+
 
 @media (max-width: 576px) {
       .post-content {
